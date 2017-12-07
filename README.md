@@ -1,19 +1,21 @@
 # predictive-author-id
 Natural Language Analysis for identifying authors based on excerpts
 
-**Project Title: **SpookyAuthor Identification
+**Project Title: ** Spooky Author Identification
 
-**Project Outline: **Predict the author of excerpts from horror stories by Edgar Allan Poe, Mary Shelley, and HP Lovecraft.
+**Project Outline: ** Predict the author of excerpts from horror stories by Edgar Allan Poe, Mary Shelley, and HP Lovecraft.
 
-Analyze word count, word length, sentence length, word variety, punctuation, word type, and pronoun usage, sentiment scores for each author
+**Goals:**
 
-Probability analysis for each text and predicting authorship.
+* Analyze sentence length, word length, word variety (vocabulary), punctuation, pronoun usage, and sentiment scores for each author in a training dataset
+* Perform probability analysis for each text and predict authorship on a test dataset with no assigned authorship
+* Compare analyses on training dataset to the test dataset once authorship has been assigned
 
-Uses Kaggle dataset on excerpts from authors
+**Notes:**
 
-Comparing the assigned authorship dataset to the dataset already containing authors for each text.
-
-Note: The NLTK library requires an additional download. See Interactive Installer in <http://www.nltk.org/data.html>  for more information.
+* Uses Kaggle dataset for the Spooky Author Competition (https://www.kaggle.com/c/spooky-author-identification)
+* The NLTK library requires an additional download. See Interactive Installer in <http://www.nltk.org/data.html>  for more information.
+* A description of the files contained in this repo can be found in file_descriptions.txt
 
  
 
