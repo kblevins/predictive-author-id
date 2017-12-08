@@ -1,11 +1,11 @@
 # predictive-author-id
 Natural Language Analysis for identifying authors based on excerpts
 
-**Project Title: ** 
+**Project Title:** 
 
 Spooky Author - Predictive Author Identification
 
-**Project Outline: **
+**Project Outline:**
 
 Predict the author of excerpts from horror stories by Edgar Allan Poe, Mary Shelley, and HP Lovecraft.
 
