@@ -1,9 +1,13 @@
 # predictive-author-id
 Natural Language Analysis for identifying authors based on excerpts
 
-**Project Title: ** Spooky Author Identification
+**Project Title: ** 
 
-**Project Outline: ** Predict the author of excerpts from horror stories by Edgar Allan Poe, Mary Shelley, and HP Lovecraft.
+Spooky Author - Predictive Author Identification
+
+**Project Outline: **
+
+Predict the author of excerpts from horror stories by Edgar Allan Poe, Mary Shelley, and HP Lovecraft.
 
 **Goals:**
 
@@ -17,6 +21,5 @@ Natural Language Analysis for identifying authors based on excerpts
 * The NLTK library requires an additional download. See Interactive Installer in <http://www.nltk.org/data.html>  for more information.
 * A description of the files contained in this repo can be found in file_descriptions.txt
 
- 
 
- 
+
