@@ -1,4 +1,6 @@
-# predictive-author-id
+# Predicting Authorship
+![library](library-photo.jpeg)
+
 Natural Language Analysis for identifying authors based on excerpts
 
 **Project Title:** 
